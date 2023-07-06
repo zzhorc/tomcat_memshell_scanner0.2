@@ -1,0 +1,2 @@
+# tomcat_memshell_Listener_getandkill
+可获取tomcat当前上下文的listener名以及根据输入的listenername删除特定的listener，可用于排查listener型内存马并由用户终止，无需重启tomcat。
